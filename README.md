@@ -1,6 +1,6 @@
 # BackupFilter
-PoC File Backup Minifilter Driver 
+poc file backup filter driver 
 
 todo: 
-* add RAII wrapper for FltGetContext / FltReleaseContext for use in Pre Write filter
-* write client and client to interface to set new restore points for files 
+* add RAII wrapper for FltGetFileContext / FltReleaseContext, could be useful in the pre write filter 
+* write client and client interface to set new restore points for files 
