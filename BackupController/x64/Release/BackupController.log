@@ -1,0 +1,8 @@
+﻿  control.cpp
+  main.cpp
+  Generating code
+  2 of 12 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BackupController.vcxproj -> C:\Users\dorge\source\repos\BackupFilter\x64\Release\BackupController.exe
