@@ -1,6 +1,5 @@
 # BackupFilter
-poc file backup filter driver 
+BackupFilter is a simple filter driver for backing up files 
 
-todo: 
-* add RAII wrapper for FltGetFileContext / FltReleaseContext, could be useful in the pre write filter 
-* write client and client interface to set new restore points for files 
+TODO: 
+* Add restoring functionality to the controller ( that is , take file name and restore the backup)
